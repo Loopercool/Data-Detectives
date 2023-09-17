@@ -37,9 +37,9 @@ Performance Measures we used for evaluating regression models are:
 <img width="545" alt="3" src="https://github.com/Loopercool/Data-Detectives/assets/90821913/2eb31b32-ff26-4cc0-9be6-3170d8c6cb9f">
 
 ### Comparison using graphs:
-![image](https://github.com/Loopercool/Data-Detectives/assets/90821913/8a57e9b3-f822-4347-b870-326b26b38e5b)
-![image](https://github.com/Loopercool/Data-Detectives/assets/90821913/3e3fbb49-3b4d-4a12-af31-e399d6272a18)
-![image](https://github.com/Loopercool/Data-Detectives/assets/90821913/7ec84922-951b-4659-86cb-6a76e435f9ec)
+![chart](https://github.com/Loopercool/Data-Detectives/assets/90821913/b67274be-70d9-4b93-b5de-9da0a003f9a7)
+![chart (1)](https://github.com/Loopercool/Data-Detectives/assets/90821913/2ff4cdd3-bf4e-4c1c-bdcf-9e740eb79bb1)
+![chart (2)](https://github.com/Loopercool/Data-Detectives/assets/90821913/1fb79fbd-ab4b-4e30-ae2e-1cf19c154527)
 
 We got best result for deleting null rows and using random forest model for predicting.
 
@@ -53,8 +53,9 @@ Energy Efficiency is defined as the ratio of energy to charging time. To calcula
 
 ### Comparison using graphs:
 
-![image](https://github.com/Loopercool/Data-Detectives/assets/90821913/83fe462f-97ec-4ca3-bcd7-a5a1003145ef)
-![image](https://github.com/Loopercool/Data-Detectives/assets/90821913/05ae81a7-d58c-4945-aff0-6254eb946105)
+![chart (3)](https://github.com/Loopercool/Data-Detectives/assets/90821913/ba6c069e-9a4f-4631-953b-5fa42441f6a5)
+![chart (4)](https://github.com/Loopercool/Data-Detectives/assets/90821913/6b0367ad-bc7f-4b7d-8720-8140e8f13683)
+
 
 ## Contribution:
 **Preprocessing** was conducted as a **group activity** in the Mtech lab, **involving discussions** and understanding each member's perspective.   
