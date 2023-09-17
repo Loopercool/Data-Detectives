@@ -37,9 +37,12 @@ Performance Measures we used for evaluating regression models are:
 <img width="545" alt="3" src="https://github.com/Loopercool/Data-Detectives/assets/90821913/2eb31b32-ff26-4cc0-9be6-3170d8c6cb9f">
 
 ### Comparison using graphs:
-![chart](https://github.com/Loopercool/Data-Detectives/assets/90821913/b67274be-70d9-4b93-b5de-9da0a003f9a7)
-![chart (1)](https://github.com/Loopercool/Data-Detectives/assets/90821913/2ff4cdd3-bf4e-4c1c-bdcf-9e740eb79bb1)
-![chart (2)](https://github.com/Loopercool/Data-Detectives/assets/90821913/1fb79fbd-ab4b-4e30-ae2e-1cf19c154527)
+![chart (5)](https://github.com/Loopercool/Data-Detectives/assets/90821913/18f3b9c9-3a7a-475d-9e93-e7b33910caad)
+![chart (6)](https://github.com/Loopercool/Data-Detectives/assets/90821913/bba2d6f8-a88a-4b53-911c-a977439cdcd9)
+
+![chart (7)](https://github.com/Loopercool/Data-Detectives/assets/90821913/b33098f2-23e8-46de-b4b3-1a3adebb6aca)
+
+
 
 We got best result for deleting null rows and using random forest model for predicting.
 
